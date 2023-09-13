@@ -3,7 +3,7 @@
 #include <math.h>
 #include <time.h>
 
-int main(){
+int main(){ 
     srand(time(NULL));
     float x,y,d,api;
     
